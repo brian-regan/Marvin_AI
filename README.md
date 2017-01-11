@@ -49,4 +49,10 @@ The following libraries will need to be installed before running Marvin:
 * google-api-python-client
 
 ## Note
-Marvin currently runs on Python 2.7. However, with some changes to urllib imports, can easily be made to run with Python3.
+Marvin currently runs on Python 2.7. However, with some changes to urllib imports, can easily be made to run with Python 3.
+
+## Authors
+
+* **Brian Regan** [brian-regan](https://github.com/brian-regan)
+
+See also the list of [contributors](https://github.com/brian-regan/Marvin_AI/contributors) who participated in this project.
