@@ -47,3 +47,6 @@ The following libraries will need to be installed before running Marvin:
 * forecastio
 * tweepy
 * google-api-python-client
+
+## Note
+Marvin currently runs on Python 2.7. However, with some changes to urllib imports, can easily be made to run with Python3.
