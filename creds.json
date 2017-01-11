@@ -1,0 +1,20 @@
+{
+	"twitter": {
+		"consumer_key" : "", 
+		"consumer_secret": "",
+		"acc_token": "",
+		"acc_token_secret": ""
+	},
+	"ivona": {
+		"acc_key": "",
+		"sec_key": ""
+	},
+	"forecastio":{
+		"key": "",
+		"lat": ,
+		"lng": 
+	},
+	"youtube":{
+		"key": ""
+	}
+}
